@@ -1,4 +1,5 @@
 # Audio Classification Solution - Whisper-based Approach
+# AKA Blending and Private Sharing Tutorial
 
 thx artineon for the memes
 
