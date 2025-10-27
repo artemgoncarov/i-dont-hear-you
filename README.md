@@ -1,5 +1,6 @@
 # Audio Classification Solution - Whisper-based Approach
 # AKA Blending and Private Sharing Tutorial
+# AKA SCALE TO AGI
 
 thx artineon for the memes
 
